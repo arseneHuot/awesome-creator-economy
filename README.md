@@ -175,6 +175,7 @@ Tools to track audience and revenue performance.
 - [PostHog](https://posthog.com) - Product analytics with session recording.
 - [Google Analytics](https://analytics.google.com) - Free web analytics from Google.
 - [Mixpanel](https://mixpanel.com) - Product analytics for digital products.
+- [IGDataHub](https://igdatahub.com/) - Instagram profile analytics: followers, engagement rate, top posts and creator comparison.
 
 ## AI Tools for Content Creators
 
